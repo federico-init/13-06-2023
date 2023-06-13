@@ -1,0 +1,16 @@
+.Todo {
+    height: 80px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #82598e;
+    border-radius: 12px;
+    box-shadow: 0 0 4px white;
+    cursor: pointer;
+}
+
+.Todo__todo {
+    font-size: 16px;
+    font-weight: 200;
+}
